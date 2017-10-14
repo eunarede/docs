@@ -38,5 +38,5 @@ Now your Mautic will receive each new client record in WHMCS and will synchroniz
 
 !! this module **does not synchronize** already registered users. If you want to force the synchronization, simply save the data of the client profile in the administration area.
 
-![](EunaRede%20Dev%20%20%20%C3%81rea%20do%20Cliente.png)
-![](Contatos%20%20%20Mautic.png)
+![](clientarea-pt.png)
+![](contatos-pt.png)

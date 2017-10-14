@@ -38,5 +38,5 @@ Agora seu Mautic receberá a cada novo cadastro no WHMCS os dados do seu cliente
 
 !! Este módulo **não** sincroniza os cadastros dos clientes até que eles sejam editados. Informações inseridas no Mautic **não** refletirão no WHMCS.
 
-![](EunaRede%20Dev%20%20%20%C3%81rea%20do%20Cliente.png)
-![](Contatos%20%20%20Mautic.png)
+![](clientarea-pt.png)
+![](contatos-pt.png)
